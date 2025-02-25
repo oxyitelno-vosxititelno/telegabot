@@ -1,0 +1,3 @@
+echo "python-telegram-bot
+python-dotenv
+nest-asyncio" > requirements.txt
